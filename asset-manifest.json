@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TMBd-API/static/css/main.b53c9efe.chunk.css",
+    "main.js": "/TMBd-API/static/js/main.3bd18ba5.chunk.js",
+    "main.js.map": "/TMBd-API/static/js/main.3bd18ba5.chunk.js.map",
+    "runtime-main.js": "/TMBd-API/static/js/runtime-main.ffa5cc23.js",
+    "runtime-main.js.map": "/TMBd-API/static/js/runtime-main.ffa5cc23.js.map",
+    "static/js/2.1d0d2034.chunk.js": "/TMBd-API/static/js/2.1d0d2034.chunk.js",
+    "static/js/2.1d0d2034.chunk.js.map": "/TMBd-API/static/js/2.1d0d2034.chunk.js.map",
+    "index.html": "/TMBd-API/index.html",
+    "precache-manifest.8b36a1ac348266bb018b52205694cf64.js": "/TMBd-API/precache-manifest.8b36a1ac348266bb018b52205694cf64.js",
+    "service-worker.js": "/TMBd-API/service-worker.js",
+    "static/css/main.b53c9efe.chunk.css.map": "/TMBd-API/static/css/main.b53c9efe.chunk.css.map",
+    "static/js/2.1d0d2034.chunk.js.LICENSE.txt": "/TMBd-API/static/js/2.1d0d2034.chunk.js.LICENSE.txt",
+    "static/media/Shawshank.jpg": "/TMBd-API/static/media/Shawshank.44564d4f.jpg",
+    "static/media/Shawshank_Poster.jpg": "/TMBd-API/static/media/Shawshank_Poster.a21be835.jpg",
+    "static/media/search.svg": "/TMBd-API/static/media/search.19142cc5.svg",
+    "static/media/star.svg": "/TMBd-API/static/media/star.8a005637.svg",
+    "static/media/trending.svg": "/TMBd-API/static/media/trending.46075f74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffa5cc23.js",
+    "static/js/2.1d0d2034.chunk.js",
+    "static/css/main.b53c9efe.chunk.css",
+    "static/js/main.3bd18ba5.chunk.js"
+  ]
+}
