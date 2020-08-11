@@ -1,0 +1,15 @@
+<svg id="Star" xmlns="http://www.w3.org/2000/svg" width="52.377" height="52.377" viewBox="0 0 52.377 52.377">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ffc723;
+      }
+    </style>
+  </defs>
+  <path id="Path_9" data-name="Path 9" class="cls-1" d="M0,0H52.377V52.377H0Z"/>
+  <path id="Path_10" data-name="Path 10" class="cls-2" d="M23.824,35.325l13.487,8.14L33.731,28.123,45.647,17.8,29.956,16.469,23.824,2,17.691,16.469,2,17.8,13.916,28.123,10.337,43.465Z" transform="translate(2.365 2.365)"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="info-white-18dp" xmlns="http://www.w3.org/2000/svg" width="33.495" height="33.495" viewBox="0 0 33.495 33.495">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_7" data-name="Path 7" class="cls-1" d="M0,0H33.5V33.5H0Z"/>
+  <path id="Path_8" data-name="Path 8" class="cls-2" d="M15.956,2A13.956,13.956,0,1,0,29.913,15.956,13.961,13.961,0,0,0,15.956,2Zm1.4,20.934H14.561V14.561h2.791Zm0-11.165H14.561V8.978h2.791Z" transform="translate(0.791 0.791)"/>
+</svg>
